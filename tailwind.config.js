@@ -31,6 +31,16 @@ export default {
         90: 90,
         100: 100,
       },
+      keyframes: {
+        "spin-slow": {
+          "100%": {
+            transform: "rotate(-360deg)",
+          },
+        },
+      },
+      animation: {
+        "spin-slow": "spin-slow 8s linear infinite",
+      },
       typography: {
         DEFAULT: {
           css: {
