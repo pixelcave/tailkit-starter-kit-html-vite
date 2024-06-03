@@ -18,13 +18,13 @@
     "@tailwindcss/typography": "^0.5.13",
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
-    "prettier": "^3.2.5",
-    "prettier-plugin-tailwindcss": "^0.5.14",
+    "prettier": "^3.3.0",
+    "prettier-plugin-tailwindcss": "^0.6.1",
     "tailwindcss": "^3.4.3",
-    "vite": "^5.2.10"
+    "vite": "^5.2.12"
   },
   "dependencies": {
-    "@alpinejs/focus": "^3.13.10",
-    "alpinejs": "^3.13.10"
+    "@alpinejs/focus": "^3.14.0",
+    "alpinejs": "^3.14.0"
   }
 }
