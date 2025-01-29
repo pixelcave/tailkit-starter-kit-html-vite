@@ -1,4 +1,4 @@
-import "./../css/app.css";
+import "../css/tailkit.css";
 
 import Alpine from "alpinejs";
 import focus from "@alpinejs/focus";
